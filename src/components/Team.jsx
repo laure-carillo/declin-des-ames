@@ -150,7 +150,7 @@ const CardsPerso = () => {
               </div>
               <div className='clash-card__unit-description'>
                 “Je tente des trucs sur css, si ça ne marche pas je recommence
-                et si vraiment ça ne marche pas j'appelle Vincent.”
+                et si vraiment ça ne marche pas j&apos;appelle Vincent.”
               </div>
             </div>
             <a
@@ -184,7 +184,7 @@ const CardsPerso = () => {
               </div>
               <div className='clash-card__unit-description'>
                 “ Geek à ses heures perdues - binge watcheuse <br></br>“ une
-                série entraîne une autre série…" "
+                série entraîne une autre série…&quot; &quot;
               </div>
             </div>
             <a
@@ -294,8 +294,8 @@ const CardsPerso = () => {
                 <span style={sizefont6}> Cultiste de Cthulhu du mois </span>
               </div>
               <div className='clash-card__unit-description'>
-                “J'écris des trucs, je fais un git push et <br></br>je regarde
-                le monde sombrer dans les flammes.”
+                “J&apos;écris des trucs, je fais un git push et <br></br>je
+                regarde le monde sombrer dans les flammes.”
               </div>
             </div>
             <a
